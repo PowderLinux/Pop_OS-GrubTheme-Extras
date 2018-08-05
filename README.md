@@ -41,6 +41,6 @@ Credits:
 
 Andrei Shevchuk (https://github.com/shvchk)
 I used his 'Poly-Light' grub theme as a template to make the theme.txt's in this repo.
-(copy of MIT License is included)
+(MIT License)
 
 ______________________________________________________________
