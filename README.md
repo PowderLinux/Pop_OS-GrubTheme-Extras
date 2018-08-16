@@ -2,7 +2,7 @@
 Extra fonts/theme.txt for Pop_OS-GrubTheme
 ______________________________________________________________
 
-Extra fonts with their matching theme.txt's to use with Pop_OS-GrubTheme
+Extra fonts with matching theme.txt's to use with Pop_OS-GrubTheme
 (https://github.com/PowderLinux/Pop_OS-GrubTheme)
 
 ______________________________________________________________
@@ -10,9 +10,9 @@ ______________________________________________________________
 These are fonts that I tried using when I originally created my Pop_OS-GrubTheme.
 (the fonts that System76 uses on Pop_OS). I ended up not including them in the theme tho
 because I didnt like the way they came out after converting them to grub's .pf2 format.
-However, I figured that I would upload them anyway for anyone that would like to try them.
-(I think the Fira Mono Bold ended up looking the best out of the bunch).
-I made this easier for anyone that wants to tese these by adding theme.txt's for each font.
+However, I figured that I would upload them anyway for anyone that would like to try them..
+I also made it easier to test them, by adding the updated theme.txt's needed to use each font.
+(I think the Fira Mono Bold ended up looking the best out of the bunch)
 
 ______________________________________________________________
 
